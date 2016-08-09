@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">钢琴教室桌面</string>
+
+    <string name="network_setup">正在网络配置。。。</string>
+    <string name="network_disconnect">网络未连接</string>
+    <string name="network_error">连接错误</string>
+    <string name="network_ok">网络已连接</string>
+</resources>
